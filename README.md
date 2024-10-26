@@ -4,15 +4,16 @@
 - 👨🏼‍💻 Programming
 - 🏃‍♂️ Sport
 - ♟️ Chess
+- 🏎️ Auto repair
 
 ## Skills ⚡
-[![My Skills](https://skillicons.dev/icons?i=python,java,mongodb,go,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,go,julia,mongodb,sqlite,git)](https://skillicons.dev)
 
 ## Projects I'm most proud of 😄
 - [Image processing app](https://github.com/kunamax/CppProject)
 - [Live life simulator](https://github.com/MateuszMaciaszczyk/DarwinWorld_Maciaszczyk_Sadkiewicz)
 - [Rougelike game](https://github.com/kunamax/PythonProject)
-- [Simple nmentionable words detector](https://github.com/kunamax/VulgarCensor)
+- [Simple inmentionable words detector](https://github.com/kunamax/VulgarCensor)
 - [Site with crates and skins](https://github.com/kunamax/BazyDanych_Projekt_Sadkiewicz_Knapik)
 
 <!--
