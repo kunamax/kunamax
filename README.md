@@ -13,6 +13,7 @@
 - [Live life simulator](https://github.com/MateuszMaciaszczyk/DarwinWorld_Maciaszczyk_Sadkiewicz)
 - [Rougelike game](https://github.com/kunamax/PythonProject)
 - [Simple nmentionable words detector](https://github.com/kunamax/VulgarCensor)
+- [Site with crates and skins](https://github.com/kunamax/BazyDanych_Projekt_Sadkiewicz_Knapik)
 
 <!--
 **kunamax/kunamax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
