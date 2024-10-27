@@ -10,11 +10,12 @@
 [![My Skills](https://skillicons.dev/icons?i=python,java,go,julia,mongodb,sqlite,git)](https://skillicons.dev)
 
 ## Projects I'm most proud of 😄
-- [Image processing app](https://github.com/kunamax/CppProject)
-- [Live life simulator](https://github.com/MateuszMaciaszczyk/DarwinWorld_Maciaszczyk_Sadkiewicz)
-- [Rougelike game](https://github.com/kunamax/PythonProject)
-- [Simple inmentionable words detector](https://github.com/kunamax/VulgarCensor)
-- [Site with crates and skins](https://github.com/kunamax/BazyDanych_Projekt_Sadkiewicz_Knapik)
+- [Image processing app](https://github.com/kunamax/CppProject) C++
+- [Live life simulator](https://github.com/MateuszMaciaszczyk/DarwinWorld_Maciaszczyk_Sadkiewicz) Java
+- [Rougelike game](https://github.com/kunamax/PythonProject) Python
+- [Version Control System](https://github.com/kunamax/CustomGit) GO
+- [Site with crates and skins](https://github.com/kunamax/BazyDanych_Projekt_Sadkiewicz_Knapik) Java + React + MongoDB
+- [Simple inmentionable words detector](https://github.com/kunamax/VulgarCensor) GO
 
 <!--
 **kunamax/kunamax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
