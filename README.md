@@ -8,7 +8,7 @@
 - 🏎️ Auto repair
 
 ## Skills ⚡
-[![My Skills](https://skillicons.dev/icons?i=python,java,go,react,c,cpp,julia,mongodb,sqlite,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,go,react,c,cpp,cs,julia,mongodb,sqlite,git)](https://skillicons.dev)
 
 ## Projects I'm most proud of 😄
 - [Objects detecting app](https://github.com/kunamax/ObjectsDetector/tree/main) Python
