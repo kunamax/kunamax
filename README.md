@@ -5,7 +5,7 @@
 - 👨🏼‍💻 Programming
 - 🏃‍♂️ Sport
 - ♟️ Chess
-- 🏎️ Auto repair
+- 🏎️ Automotive modification
 
 ## Skills ⚡
 [![My Skills](https://skillicons.dev/icons?i=python,java,go,react,c,cpp,cs,julia,mongodb,sqlite,git)](https://skillicons.dev)
