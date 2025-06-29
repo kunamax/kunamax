@@ -12,6 +12,7 @@
 
 ## Projects I'm most proud of 😄
 - [Objects detecting app](https://github.com/kunamax/ObjectsDetector/tree/main) Python
+- [Health Tracker](https://github.com/kunamax/HealthApp) C#
 - [Image processing app](https://github.com/kunamax/CppProject) C++
 - [Live life simulator](https://github.com/MateuszMaciaszczyk/DarwinWorld_Maciaszczyk_Sadkiewicz) Java
 - [Rougelike game](https://github.com/kunamax/PythonProject) Python
